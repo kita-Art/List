@@ -35,7 +35,11 @@ cd korean-quote-generator
 ✨ 배운 점 및 개선 사항
 
 이 프로젝트를 통해 다음과 같은 것들을 배우고 경험했습니다.
+
+
 HTML/CSS 기본기: 웹 페이지의 구조를 설계하고, display: flex를 활용하여 요소를 중앙에 배치하는 등 기본적인 레이아웃 및 스타일링 방법을 익혔습니다.
+
+
 JavaScript DOM 조작: JavaScript를 사용하여 HTML 요소를 선택하고(querySelector, getElementById), 텍스트를 변경하거나(innerText), 스타일을 제어하고(style.display), 동적으로 요소를 추가(appendChild)하는 방법을 실습했습니다.
 비동기 API 통신: fetch API와 async/await 문법을 사용하여 외부 API를 호출하고 데이터를 가져오는 비동기 통신 과정을 이해하고 구현했습니다. 네트워크 요청 시 발생할 수 있는 에러 처리(try-catch)의 중요성을 깨달았습니다.
 이벤트 리스너 활용: 버튼 클릭 이벤트를 감지하고(addEventListener), 해당 이벤트에 따라 특정 함수가 실행되도록 구현했습니다.
